@@ -39,6 +39,7 @@
     "@wordpress/plugins": "6.3.0",
     "@wordpress/scripts": "26.6.0",
     "autoprefixer": "9.8.7",
+    "eslint": "^9.15.0",
     "grunt": "1.6.1",
     "grunt-concat-css": "0.3.2",
     "grunt-contrib-clean": "2.0.1",
